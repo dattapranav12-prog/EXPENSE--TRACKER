@@ -1,6 +1,7 @@
 # Welcome to your Lovable project
 
-This project was built with [Lovable](https://lovable.dev).
+This project was built with [Lovable]expense-tracker-9w53up4hz-ntg-33d9.vercel.app
+
 
 ## Build with Lovable
 
